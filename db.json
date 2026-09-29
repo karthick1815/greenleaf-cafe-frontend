@@ -1,0 +1,292 @@
+
+{
+  "menu": [
+    {
+      "id": 1,
+      "food_name": "Veg Burger",
+      "category": "Fast Food",
+      "price": 150,
+      "description": "Grilled patty, fresh veggies, house sauce.",
+      "image": "🍔",
+      "available": true
+    },
+    {
+      "id": 2,
+      "food_name": "Masala Dosa",
+      "category": "Breakfast",
+      "price": 90,
+      "description": "Crisp dosa with spiced potato filling.",
+      "image": "🥞",
+      "available": true
+    },
+    {
+      "id": 3,
+      "food_name": "Cold Coffee",
+      "category": "Coffee & Drinks",
+      "price": 110,
+      "description": "Chilled coffee blended with ice cream.",
+      "image": "🥤",
+      "available": true
+    },
+    {
+      "id": 4,
+      "food_name": "Paneer Wrap",
+      "category": "Take Away",
+      "price": 130,
+      "description": "Paneer tikka rolled in a soft tortilla.",
+      "image": "🌯",
+      "available": true
+    },
+    {
+      "id": 5,
+      "food_name": "Fresh Lime Soda",
+      "category": "Coffee & Drinks",
+      "price": 60,
+      "description": "Lime, soda, and a hint of mint.",
+      "image": "🍋",
+      "available": false
+    },
+    {
+      "id": 6,
+      "food_name": "Idli Sambar",
+      "category": "Breakfast",
+      "price": 70,
+      "description": "Soft steamed idlis served with hot sambar and chutney.",
+      "image": "🍚",
+      "available": true
+    },
+    {
+      "id": 7,
+      "food_name": "Vada Sambar",
+      "category": "Breakfast",
+      "price": 80,
+      "description": "Crispy medu vada served with sambar and coconut chutney.",
+      "image": "🍩",
+      "available": true
+    },
+    {
+      "id": 8,
+      "food_name": "Pongal",
+      "category": "Breakfast",
+      "price": 85,
+      "description": "Creamy South Indian ven pongal with ghee, pepper and cashews.",
+      "image": "🥣",
+      "available": true
+    },
+    {
+      "id": 9,
+      "food_name": "Paneer Butter Masala",
+      "category": "Main Course",
+      "price": 190,
+      "description": "Soft paneer cubes cooked in a rich creamy tomato gravy.",
+      "image": "🍛",
+      "available": true
+    },
+    {
+      "id": 10,
+      "food_name": "Veg Fried Rice",
+      "category": "Main Course",
+      "price": 160,
+      "description": "Aromatic rice tossed with fresh vegetables and Asian spices.",
+      "image": "🍚",
+      "available": true
+    },
+    {
+      "id": 11,
+      "food_name": "Chicken Biryani",
+      "category": "Main Course",
+      "price": 220,
+      "description": "Fragrant basmati rice cooked with tender chicken and traditional spices.",
+      "image": "🍗",
+      "available": true
+    },
+    {
+      "id": 12,
+      "food_name": "Veg Biryani",
+      "category": "Main Course",
+      "price": 170,
+      "description": "Flavored basmati rice cooked with fresh vegetables and aromatic spices.",
+      "image": "🍛",
+      "available": true
+    },
+    {
+      "id": 13,
+      "food_name": "French Fries",
+      "category": "Fast Food",
+      "price": 100,
+      "description": "Crispy golden potato fries seasoned with house spices.",
+      "image": "🍟",
+      "available": true
+    },
+    {
+      "id": 14,
+      "food_name": "Cheese Burger",
+      "category": "Fast Food",
+      "price": 180,
+      "description": "Juicy veggie patty topped with melted cheese and fresh vegetables.",
+      "image": "🍔",
+      "available": true
+    },
+    {
+      "id": 15,
+      "food_name": "Veg Sandwich",
+      "category": "Fast Food",
+      "price": 120,
+      "description": "Toasted bread filled with fresh vegetables, cheese and house sauce.",
+      "image": "🥪",
+      "available": true
+    },
+    {
+      "id": 16,
+      "food_name": "Margherita Pizza",
+      "category": "Fast Food",
+      "price": 220,
+      "description": "Classic pizza topped with tomato sauce, mozzarella and fresh herbs.",
+      "image": "🍕",
+      "available": true
+    },
+    {
+      "id": 17,
+      "food_name": "Veg Pasta",
+      "category": "Fast Food",
+      "price": 170,
+      "description": "Penne pasta tossed with vegetables in a creamy tomato sauce.",
+      "image": "🍝",
+      "available": true
+    },
+    {
+      "id": 18,
+      "food_name": "Filter Coffee",
+      "category": "Coffee & Drinks",
+      "price": 50,
+      "description": "Traditional South Indian filter coffee with rich aroma and froth.",
+      "image": "☕",
+      "available": true
+    },
+    {
+      "id": 19,
+      "food_name": "Cappuccino",
+      "category": "Coffee & Drinks",
+      "price": 130,
+      "description": "Smooth espresso topped with steamed milk and creamy foam.",
+      "image": "☕",
+      "available": true
+    },
+    {
+      "id": 20,
+      "food_name": "Mango Milkshake",
+      "category": "Coffee & Drinks",
+      "price": 140,
+      "description": "Thick creamy milkshake made with fresh ripe mangoes.",
+      "image": "🥭",
+      "available": true
+    },
+    {
+      "id": 21,
+      "food_name": "Chocolate Milkshake",
+      "category": "Coffee & Drinks",
+      "price": 150,
+      "description": "Rich chocolate milkshake blended with chilled milk and ice cream.",
+      "image": "🍫",
+      "available": true
+    },
+    {
+      "id": 22,
+      "food_name": "Fresh Orange Juice",
+      "category": "Coffee & Drinks",
+      "price": 90,
+      "description": "Freshly squeezed orange juice served chilled.",
+      "image": "🍊",
+      "available": true
+    },
+    {
+      "id": 23,
+      "food_name": "Gulab Jamun",
+      "category": "Desserts",
+      "price": 80,
+      "description": "Soft milk dumplings soaked in warm sugar syrup.",
+      "image": "🍮",
+      "available": true
+    },
+    {
+      "id": 24,
+      "food_name": "Chocolate Brownie",
+      "category": "Desserts",
+      "price": 120,
+      "description": "Warm chocolate brownie with a rich fudgy center.",
+      "image": "🍫",
+      "available": true
+    },
+    {
+      "id": 25,
+      "food_name": "Ice Cream Sundae",
+      "category": "Desserts",
+      "price": 150,
+      "description": "Creamy vanilla ice cream topped with chocolate sauce and nuts.",
+      "image": "🍨",
+      "available": true
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "customer_name": "Arun Kumar",
+      "phone": "9876500011",
+      "food_name": "Veg Burger",
+      "quantity": 2,
+      "price": 300,
+      "status": "Preparing"
+    },
+    {
+      "id": 2,
+      "customer_name": "Priya S",
+      "phone": "9876500022",
+      "food_name": "Cold Coffee",
+      "quantity": 1,
+      "price": 110,
+      "status": "Completed"
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "customer_name": "Karthik R",
+      "phone": "9876500033",
+      "booking_date": "2026-07-15",
+      "booking_time": "19:30",
+      "guests": 4
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Divya M",
+      "designation": "Head Chef",
+      "salary": 35000,
+      "phone": "9876500044"
+    },
+    {
+      "id": 2,
+      "name": "Suresh V",
+      "designation": "Waiter",
+      "salary": 18000,
+      "phone": "9876500055"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "customer_name": "Meena",
+      "rating": 5,
+      "review": "Very nice food and friendly staff!"
+    },
+    {
+      "id": 2,
+      "customer_name": "Ramesh",
+      "rating": 4,
+      "review": "Good coffee, quick service."
+    }
+  ],
+  "contacts": []
+}
+
